@@ -21,6 +21,12 @@ This new, multi-class classification task involves distinguishing three classes 
 ### Evaluation metrics
 
 
+
+## Submission Guidelines
+* Short paper(upto 4 pages) of system and results
+* 
+The formatting requirements are the same as in [Arxiv Preprint](https://github.com/Saichethan/TRACT/blob/master/Style%20and%20Template%20for%20Preprints%20(arXiv%2C%20bio-arXiv).zip)
+
 ### Annotation & Data Engineering
 
 | Name  | Email |

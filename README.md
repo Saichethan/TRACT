@@ -25,7 +25,7 @@ This new, multi-class classification task involves distinguishing three classes 
 
 | Name  | Email |
 | ------------- | ------------- |
-|   |  |
+| Rajat Deoli |rajat.ece.1735@iiitbh.ac.in  |
 |   |  |
 
 ### Organizers

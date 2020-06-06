@@ -28,7 +28,7 @@ This new, multi-class classification task involves distinguishing three classes 
 3. **Abhay Anand Tripathi**
 
 ### Contact
-for more information regarding shared task contact[organizer](mailto:saichethanreddymiriyala@gmail.com)
+for more information regarding shared task contact [organizer](mailto:saichethanreddymiriyala@gmail.com)
 
 
 >>Google Developer Student Club(DSC)

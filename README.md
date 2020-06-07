@@ -24,7 +24,7 @@ This new, multi-class classification task involves distinguishing three classes 
 
 ### Submission Guidelines
 * Short paper(upto 4 pages) of system and results
-* [Instructions for authors](https://github.com/Saichethan/TRACT/ioa.md)
+* [Instructions for authors](https://github.com/Saichethan/TRACT/ioa)
 * Latex Template [Arxiv Preprint](https://github.com/Saichethan/TRACT/blob/master/Style%20and%20Template%20for%20Preprints%20(arXiv%2C%20bio-arXiv).zip)
 
 

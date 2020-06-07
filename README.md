@@ -9,9 +9,9 @@ Understanding reportings and confessions of abuse in online space is an import t
 This new, multi-class classification task involves distinguishing three classes of tweets that mention abuse reportings: "report" (annotated as 1); "empathy" (annotated as 2); and "general" (annotated as 3) 
 
 ### Important dates
-*  
-*
-*
+* Registration deadline :  
+* Result submission :
+* Paper submission :
 
 ### Data
 * **Training data** : contains X tweets (p report, q empathy, r general)
@@ -27,12 +27,6 @@ This new, multi-class classification task involves distinguishing three classes 
 * 
 The formatting requirements are the same as in [Arxiv Preprint](https://github.com/Saichethan/TRACT/blob/master/Style%20and%20Template%20for%20Preprints%20(arXiv%2C%20bio-arXiv).zip)
 
-### Annotation & Data Engineering
-
-| Name  | Email |
-| ------------- | ------------- |
-| Rajat Deoli |rajat.ece.1735@iiitbh.ac.in  |
-|   |  |
 
 ### Organizers
 1. **Saichethan M. Reddy**
@@ -41,6 +35,13 @@ The formatting requirements are the same as in [Arxiv Preprint](https://github.c
 
 ### Contact
 for more information regarding shared task contact [organizer](mailto:saichethanreddymiriyala@gmail.com)
+
+## References
+* Subramani, S., Michalska, S., Wang, H., Du, J., Zhang, Y. and Shakeel, H., 2019. Deep learning for multi-class identification from domestic violence online posts. IEEE Access, 7, pp.46210-46224.
+
+* Sapora, S., Lazarescu, B. and Lolov, C., 2019. OffensEval at SemEval-2018 Task 6: Identifying and Categorizing Offensive Language in Social Media. arXiv preprint arXiv:1903.05929.
+
+* Davidson, T., Warmsley, D., Macy, M. and Weber, I., 2017, May. Automated hate speech detection and the problem of offensive language. In Eleventh international aaai conference on web and social media.
 
 
 >>Google Developer Student Club(DSC)

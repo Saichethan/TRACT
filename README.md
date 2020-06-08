@@ -6,7 +6,7 @@ Understanding reportings and confessions of abuse in online space is an import t
 * Propose a shared task for this problem **TRACT**
 
 ## Task
-This new, multi-class classification task involves distinguishing three classes of tweets that mention abuse reportings: "report" (annotated as 1); "empathy" (annotated as 2); and "general" (annotated as 3) 
+This new, multi-class classification task involves distinguishing three classes of tweets that mention abuse reportings: "report" (annotated as 1);  "empathy" (annotated as 2);  and   "general" (annotated as 3) 
 
 ### Important dates
 * Registration deadline :  
@@ -44,4 +44,4 @@ for more information regarding shared task contact [organizer](mailto:saichethan
 * Davidson, T., Warmsley, D., Macy, M. and Weber, I., 2017, May. Automated hate speech detection and the problem of offensive language. In Eleventh international aaai conference on web and social media.
 
 
->>Google Developer Student Club(DSC)
+>>copyright 2020

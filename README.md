@@ -37,6 +37,9 @@ This new, multi-class classification task involves distinguishing three classes 
 for more information regarding shared task contact [organizer](mailto:saichethanreddymiriyala@gmail.com)
 
 ## References
+
+* Miriyala Reddy, Saichethan; Tyagi, Kanishk ; Anand Tripathi, Abhay; Deoli, Rajat (2020), “TRACT: Tweets Reporting Abuse Classification Task Corpus”, Mendeley Data, V1, doi: 10.17632/my2vkfyffd.1
+
 * Subramani, S., Michalska, S., Wang, H., Du, J., Zhang, Y. and Shakeel, H., 2019. Deep learning for multi-class identification from domestic violence online posts. IEEE Access, 7, pp.46210-46224.
 
 * Sapora, S., Lazarescu, B. and Lolov, C., 2019. OffensEval at SemEval-2018 Task 6: Identifying and Categorizing Offensive Language in Social Media. arXiv preprint arXiv:1903.05929.

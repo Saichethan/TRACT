@@ -1,6 +1,6 @@
 # **Tweets Reporting Abuse Classification Task** 
 
-Understanding reportings and confessions of abuse in online space is an import task, as most of the victims of abuse and violence don’t generally report it to concerned body. Currently there are no annotated datasets are available for this task.
+In recent decade we have noticed a considerable increase of reports or confession posts of abuse victims on twitter. Most of the times victims does not report it to their guardians or the concerned authorities. Teenagers and minorities are most affected group of abuse. Part of these victims tweet about their incident to let go of pain and suffering or as a cry for help. Identifying such reports are challenging because of unavailability of annotated training data, and high degree of data sparsity. To address this we are hosting TRACT in DSC OMG
 
 * We release the first small scale manually annotated corpus for abuse classification problem
 * Propose a shared task for this problem **TRACT**

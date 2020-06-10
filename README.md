@@ -19,7 +19,7 @@ This new, multi-class classification task involves distinguishing three classes 
 ### Data
 * **Training data** : contains X tweets (p report, q empathy, r general)
 * **Validation data** : contains X tweets (p report, q empathy, r general)
-* **Test data** : contains X tweets (p report, q empathy, r general)
+* **Test data** : blind dataset
 
 ### Evaluation metrics
 
@@ -27,7 +27,7 @@ This new, multi-class classification task involves distinguishing three classes 
 
 ### Submission Guidelines
 * Short paper(upto 4 pages) of system and results
-* [Instructions for authors](https://github.com/Saichethan/TRACT/ioa)
+* [Instructions for authors](https://Saichethan/TRACT/ioa)
 * Latex Template [Arxiv Preprint](https://github.com/Saichethan/TRACT/blob/master/Style%20and%20Template%20for%20Preprints%20(arXiv%2C%20bio-arXiv).zip)
 
 

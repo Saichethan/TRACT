@@ -9,9 +9,12 @@ In recent decade we have noticed a considerable increase of reports or confessio
 This new, multi-class classification task involves distinguishing three classes of tweets that mention abuse reportings: "report" (annotated as 1);  "empathy" (annotated as 2);  and   "general" (annotated as 3) 
 
 ### Important dates
-* Registration deadline :  
-* Result submission :
-* Paper submission :
+* Registration deadline : 23 June
+* Training and Validation data release : 11 June 
+* Test data release : 26 June
+* Predicion submission : 28 June
+* Leaderboard release: 30 June
+* System description paper submission : 1 July
 
 ### Data
 * **Training data** : contains X tweets (p report, q empathy, r general)

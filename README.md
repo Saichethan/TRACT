@@ -40,4 +40,3 @@ for more information regarding shared task contact [organizer](mailto:saichethan
 
 * Miriyala Reddy, Saichethan; Tyagi, Kanishk ; Anand Tripathi, Abhay; Deoli, Rajat (2020), “TRACT: Tweets Reporting Abuse Classification Task Corpus”, Mendeley Data, V1, [doi: 10.17632/my2vkfyffd.1](http://dx.doi.org/10.17632/my2vkfyffd.1)
 
->>copyright 2020

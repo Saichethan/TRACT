@@ -17,8 +17,8 @@ This new, multi-class classification task involves distinguishing three classes 
 * System description paper submission : 1 July
 
 ### Data
-* **Training data** : contains X tweets (p report, q empathy, r general)
-* **Validation data** : contains X tweets (p report, q empathy, r general)
+* **Training data** : contains 3000 tweets (37 report, 80 empathy, 2883 general)
+* **Validation data** : contains 1500 tweets (19 report, 36 empathy, 1445 general)
 * **Test data** : blind dataset
 
 ### Evaluation metrics
@@ -27,7 +27,7 @@ This new, multi-class classification task involves distinguishing three classes 
 
 ### Submission Guidelines
 * Short paper(upto 4 pages) of system and results
-* [Instructions for authors](https://Saichethan/TRACT/ioa)
+* [Instructions for authors](https://Saichethan.github.io/TRACT/ioa)
 * Latex Template [Arxiv Preprint](https://github.com/Saichethan/TRACT/blob/master/Style%20and%20Template%20for%20Preprints%20(arXiv%2C%20bio-arXiv).zip)
 
 

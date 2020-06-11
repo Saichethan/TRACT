@@ -22,6 +22,7 @@ This new, multi-class classification task involves distinguishing three classes 
 * **Test data** : blind dataset
 
 ### Evaluation metrics
+F1 metrics are considered for evaluation of systems
 
 
 

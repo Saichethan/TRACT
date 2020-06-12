@@ -39,7 +39,21 @@ F1 metrics are considered for evaluation of systems
 ### Contact
 for more information regarding shared task contact [organizer](mailto:saichethanreddymiriyala@gmail.com)
 
+
+
 ## References
 
 * Miriyala Reddy, Saichethan; Tyagi, Kanishk ; Anand Tripathi, Abhay; Deoli, Rajat (2020), “TRACT: Tweets Reporting Abuse Classification Task Corpus”, Mendeley Data, V1, [doi: 10.17632/my2vkfyffd.1](http://dx.doi.org/10.17632/my2vkfyffd.1)
+
+```
+@misc{https://doi.org/10.17632/my2vkfyffd.1,
+  doi = {10.17632/MY2VKFYFFD.1},
+  url = {https://data.mendeley.com/datasets/my2vkfyffd/1},
+  author = {Miriyala Reddy, Saichethan},
+  keywords = {Data Mining, Social Media, Domestic Abuse, Twitter},
+  title = {TRACT: Tweets Reporting Abuse Classification Task Corpus},
+  publisher = {Mendeley},
+  year = {2020}
+}
+```
 

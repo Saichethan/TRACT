@@ -35,7 +35,6 @@ F1 metrics are considered for evaluation of systems
 ### Organizers
 1. **Saichethan M. Reddy**
 2. **Kanishk Tyagi**
-3. **Abhay Anand Tripathi**
 
 ### Contact
 for more information regarding shared task contact [organizer](mailto:saichethanreddymiriyala@gmail.com)

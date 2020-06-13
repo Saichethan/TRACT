@@ -1,6 +1,6 @@
 # **Tweets Reporting Abuse Classification Task** 
 
-In recent decades we have noticed a considerable increase in reports or confession posts of abuse victims on twitter. Most of the time victims do not report it to their guardians or the concerned authorities. Teenagers and minorities are the most affected group of abuse. Part of these victims tweets about their incident to let go of pain and suffering or as a cry for help. Identifying such reports are challenging because of the unavailability of annotated training data, and a high degree of data sparsity. To address this we are hosting TRACT in **[DSC OMG](https://dscomg.com/)** A.K.A Online Mega Event. 
+In recent decades we have noticed a considerable increase in reports or confession posts of abuse victims on twitter. Most of the time victims do not report it to their guardians or the concerned authorities. Teenagers and minorities are the most affected group of abuse. Part of these victims tweets about their incident to let go of pain and suffering or as a cry for help. Identifying such reports are challenging because of the unavailability of annotated training data, and a high degree of data sparsity. To address this we are hosting TRACT in **[DSC OMG](https://dscomg.com/)** A.K.A Online Mega Gathering. 
 
 * We release the first small scale manually annotated corpus for abuse classification problem
 * Propose a shared task for this problem **TRACT**

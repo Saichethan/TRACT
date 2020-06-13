@@ -25,7 +25,7 @@ This new, multi-class classification task involves distinguishing three classes 
 F1 metrics are considered for evaluation of systems
 
 ### Registration
-
+for registration [click here](https://forms.gle/SwDTbcMnPAv1FQWu9)
 
 ### Submission Guidelines
 * Short paper(upto 4 pages) of system and results

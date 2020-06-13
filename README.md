@@ -28,6 +28,8 @@ F1 metrics are considered for evaluation of systems
 for registration [click here](https://forms.gle/SwDTbcMnPAv1FQWu9)
 
 ### Submission Guidelines
+
+#### optional
 * Short paper(upto 4 pages) of system and results
 * [Instructions for authors](https://Saichethan.github.io/TRACT/ioa)
 * Latex Template [Arxiv Preprint](https://github.com/Saichethan/TRACT/blob/master/Style%20and%20Template%20for%20Preprints%20(arXiv%2C%20bio-arXiv).zip)
@@ -58,3 +60,4 @@ for more information regarding shared task contact [organizer](mailto:saichethan
 }
 ```
 
+![tasklogo](tasklogo.png)

@@ -11,6 +11,11 @@ In recent decades we have noticed a considerable increase in reports or confessi
 ## Task
 This new, multi-class classification task involves distinguishing three classes of tweets that mention abuse reportings: "report" (annotated as 1);  "empathy" (annotated as 2);  and   "general" (annotated as 3) 
 
+1. Automatic classification of tweets reporting abuse
+    * F1-score for each class
+    * Micro Averaged F1 scores
+
+2. Exploratory Analysis
 ### Important dates
 * Registration deadline : 23 June
 * Training and Validation data release : 11 June 

@@ -3,7 +3,7 @@
 The total number of users of social media continues to grow worldwide, resulting in the generation of vast amounts of data. Popular social networking sites such as Facebook, Twitter and Instagram dominate this sphere. According to estimates, 500 million tweets and 4.3 billion Facebook messages are posted every day. According to the latest Pew Research Report, nearly half of adults worldwide and two-thirds of all American adults (65%) use social networking.
 
 
-In recent decades we have noticed a considerable increase in reports or confession posts of abuse victims on twitter. Most of the time victims do not report it to their guardians or the concerned authorities. Teenagers and minorities are the most affected group of abuse. Part of these victims tweets about their incident to let go of pain and suffering or as a cry for help. Identifying such reports are challenging because of the unavailability of annotated training data, and a high degree of data sparsity. To address this we are hosting TRACT in **[DSC OMG](https://dscomg.com/)** A.K.A Online Mega Gathering. 
+In recent decades we have noticed a considerable increase in reports or confession posts of abuse victims on twitter. Most of the time victims do not report it to their guardians or the concerned authorities. Teenagers and minorities are the most affected group of abuse. Part of these victims tweets about their incident to let go of pain and suffering or as a cry for help. Identifying such reports are challenging because of the unavailability of annotated training data, and a high degree of data sparsity. To address this we are hosting TRACT on kaggle. 
 
 * We release the first small scale manually annotated corpus for abuse classification problem
 * Propose a shared task for this problem **TRACT**
@@ -18,13 +18,6 @@ This new, multi-class classification task involves distinguishing three classes 
 2. Exploratory Analysis
 
 
-### Important dates
-* Registration deadline : 23 June
-* Training and Validation data release : 11 June 
-* Test data release : 26 June
-* Predicion submission : 28 June
-* Leaderboard release: 30 June
-* System description paper submission : 1 July
 
 ### Data
 * **Training data** : contains 3000 tweets (37 report, 80 empathy, 2883 general)

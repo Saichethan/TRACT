@@ -18,18 +18,13 @@ This new, multi-class classification task involves distinguishing three classes 
 2. Exploratory Analysis
 
 
-
-### Data
-* **Training data** : contains 3000 tweets (37 report, 80 empathy, 2883 general)
-* **Validation data** : contains 1500 tweets (19 report, 36 empathy, 1445 general)
-* **Test data** : blind dataset
-
-### Evaluation metrics
-F1 metrics are considered for evaluation of systems
-
+## Contributors
+1. Saichethan Miriyala Reddy
+2. Kanishk Tyagi
+3. Abhay Anand Tripathi
 
 ### Contact
-for more information regarding dataset [contact](mailto:saichethanreddymiriyala@gmail.com)
+for more information regarding dataset and scripts [contact](mailto:saichethanreddymiriyala@gmail.com)
 
 ## Acknowledgment
 
@@ -49,4 +44,4 @@ We would like to thank Dr. Ambika Vishal Pawar (associate professor) and Dr. Ket
 }
 ```
 
-![tasklogo](tasklogo.png)
+

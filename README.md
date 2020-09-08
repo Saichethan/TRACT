@@ -29,9 +29,11 @@ F1 metrics are considered for evaluation of systems
 
 
 ### Contact
-for more information regarding dataset contact [organizer](mailto:saichethanreddymiriyala@gmail.com)
+for more information regarding dataset [contact](mailto:saichethanreddymiriyala@gmail.com)
 
+## Acknowledgment
 
+We would like to thank Dr. Ambika Vishal Pawar (associate professor) and Dr. Ketan Kotecha (director) at Symbiosis Institute of Technology, Pune for their help and support. 
 
 ## References
 

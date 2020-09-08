@@ -27,29 +27,13 @@ This new, multi-class classification task involves distinguishing three classes 
 ### Evaluation metrics
 F1 metrics are considered for evaluation of systems
 
-### Registration
-for registration [click here](https://forms.gle/SwDTbcMnPAv1FQWu9)
-
-### Submission Guidelines
-
-#### optional
-* Short paper(upto 4 pages) of system and results
-* [Instructions for authors](https://Saichethan.github.io/TRACT/ioa)
-* Latex Template [Arxiv Preprint](https://github.com/Saichethan/TRACT/blob/master/Style%20and%20Template%20for%20Preprints%20(arXiv%2C%20bio-arXiv).zip)
-
-
-### Organizers
-1. **Saichethan M. Reddy**
-2. **Kanishk Tyagi**
 
 ### Contact
-for more information regarding shared task contact [organizer](mailto:saichethanreddymiriyala@gmail.com)
+for more information regarding dataset contact [organizer](mailto:saichethanreddymiriyala@gmail.com)
 
 
 
 ## References
-
-* Miriyala Reddy, Saichethan; Tyagi, Kanishk ; Anand Tripathi, Abhay; Deoli, Rajat (2020), “TRACT: Tweets Reporting Abuse Classification Task Corpus”, Mendeley Data, V1, [doi: 10.17632/my2vkfyffd.1](http://dx.doi.org/10.17632/my2vkfyffd.1)
 
 ```
 @misc{https://doi.org/10.17632/my2vkfyffd.1,
